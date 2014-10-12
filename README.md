@@ -6,6 +6,7 @@ It already embeds Saltarelle 2.6.0.84 branch "source-maps" binaries with latest 
 
 The repo requires to manually create a linked directory named "sources" that points to "..\ClassLibrary1", e.g.
 ```
+cd WebSite
 mklink /D sources ..\ClassLibrary1
 ```
 alternatively you can create the directory "source" and store there all the ".cs" files (preserving its structure). But you'll need to refresh it everytime you modify the sources.
