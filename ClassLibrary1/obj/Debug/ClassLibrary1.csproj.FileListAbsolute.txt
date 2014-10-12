@@ -1,0 +1,23 @@
+C:\Users\AMD\Desktop\prova\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\AMD\Desktop\prova\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\AMD\Desktop\prova\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.js
+C:\Users\AMD\Desktop\prova\ClassLibrary1\ClassLibrary1\bin\Debug\mscorlib.dll
+C:\Users\AMD\Desktop\prova\ClassLibrary1\ClassLibrary1\bin\Debug\mscorlib.xml
+C:\Users\AMD\Desktop\prova\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\AMD\Desktop\prova\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\AMD\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\AMD\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\AMD\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.js
+C:\Users\AMD\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\bin\Debug\mscorlib.dll
+C:\Users\AMD\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\bin\Debug\mscorlib.xml
+C:\Users\AMD\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\AMD\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\AMD\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Nino\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Nino\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Nino\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.js
+C:\Users\Nino\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\bin\Debug\mscorlib.dll
+C:\Users\Nino\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\bin\Debug\mscorlib.xml
+C:\Users\Nino\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Nino\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Nino\Desktop\USB Kingston\SourceMapsTest\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

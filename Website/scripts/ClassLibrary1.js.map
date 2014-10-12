@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "file": "ClassLibrary1.js",
+  "sourceRoot": "../sources/",
+  "sources": ["Class1.cs","nestedfolder/Class2.cs","nestedfolder/another/Class3.cs"],
+  "names": [""],
+  "mappings": ";;;;;;;;;;;;EAYSA;EACAA;EACAA;;;EAKAA;EACAA;EACAA;EACAA;EACAA;;;;;;;;;;ECbAA;EACAA;EACAA;EACAA;EACAA;EACAA;EACAA;EACAA;EACAA;EACAA;;;;;;;;;ECTAA;EACAA;EACAA;EACAA;EACAA;EACAA;EACAA;EACAA;EACAA;EACAA;;;;;GFUAA"
+}
